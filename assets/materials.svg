@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title">
+<title id="title">Materials: share of code across public repositories: JavaScript 47%, Lua 18%, HTML 17%, CSS 9%, SCSS 4%, TypeScript 3%, PHP &#60;1%. Also working with Angular, Supabase.</title>
+<style>
+.caps{font:500 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;letter-spacing:2.5px;fill:#8a8b93}
+.name{font:500 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;letter-spacing:2px;fill:#8a8b93}
+.percent{font:italic 400 18px Georgia, 'Times New Roman', serif;fill:#f1ece2}
+.tools{font:italic 400 17px Georgia, 'Times New Roman', serif;fill:#f1ece2}
+.seed{transform-box:fill-box;transform-origin:center;transform:scale(0);animation:sprout .9s cubic-bezier(.2,.8,.2,1) forwards}
+.float{animation:float 7s ease-in-out infinite alternate}
+.reveal{opacity:0;animation:fade .9s ease-out forwards}
+.light{opacity:0;animation:fade 1.6s ease-out forwards}
+@keyframes sprout{to{transform:scale(1)}}
+@keyframes float{from{transform:translateY(-3px)}to{transform:translateY(3px)}}
+@keyframes fade{to{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.seed{transform:none}.reveal,.light{opacity:1}}
+</style>
+<defs>
+<clipPath id="wall"><rect width="960" height="300" rx="16"/></clipPath>
+<linearGradient id="wall-gradient" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c1d22"/><stop offset="1" stop-color="#0e0f12"/></linearGradient>
+<radialGradient id="spot" gradientUnits="userSpaceOnUse" cx="480" cy="-60" r="420" gradientTransform="translate(480 -60) scale(1.6 1) translate(-480 60)">
+<stop offset="0" stop-color="#fff4dc" stop-opacity=".14"/><stop offset=".6" stop-color="#fff4dc" stop-opacity=".04"/><stop offset="1" stop-color="#fff4dc" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g clip-path="url(#wall)">
+<rect width="960" height="300" fill="url(#wall-gradient)"/>
+<rect class="light" width="960" height="300" fill="url(#spot)"/>
+</g>
+<text class="caps" x="40" y="44">SHARE OF CODE · PUBLIC REPOS</text>
+<text class="caps" x="920" y="44" text-anchor="end">UPDATED 20 NOV 2026</text>
+<g class="float" style="animation-delay:-0s"><circle class="seed" style="animation-delay:0.30s" cx="116.6" cy="124" r="40.00" fill="rgb(255,200,87)" filter="url(#glow)"/></g>
+<g class="reveal" style="animation-delay:0.30s"><text class="name" x="116.6" y="196" text-anchor="middle">JAVASCRIPT</text>
+<text class="percent" x="116.6" y="222" text-anchor="middle">47%</text></g>
+<g class="float" style="animation-delay:-1.3s"><circle class="seed" style="animation-delay:0.42s" cx="237.7" cy="124" r="26.90" fill="rgb(232,102,114)" filter="url(#glow)"/></g>
+<g class="reveal" style="animation-delay:0.42s"><text class="name" x="237.7" y="196" text-anchor="middle">LUA</text>
+<text class="percent" x="237.7" y="222" text-anchor="middle">18%</text></g>
+<g class="float" style="animation-delay:-2.6s"><circle class="seed" style="animation-delay:0.54s" cx="358.9" cy="124" r="26.31" fill="rgb(231,97,115)" filter="url(#glow)"/></g>
+<g class="reveal" style="animation-delay:0.54s"><text class="name" x="358.9" y="196" text-anchor="middle">HTML</text>
+<text class="percent" x="358.9" y="222" text-anchor="middle">17%</text></g>
+<g class="float" style="animation-delay:-3.9000000000000004s"><circle class="seed" style="animation-delay:0.66s" cx="480.0" cy="124" r="20.69" fill="rgb(210,71,132)" filter="url(#glow)"/></g>
+<g class="reveal" style="animation-delay:0.66s"><text class="name" x="480.0" y="196" text-anchor="middle">CSS</text>
+<text class="percent" x="480.0" y="222" text-anchor="middle">9%</text></g>
+<g class="float" style="animation-delay:-5.2s"><circle class="seed" style="animation-delay:0.78s" cx="601.1" cy="124" r="15.48" fill="rgb(171,78,159)" filter="url(#glow)"/></g>
+<g class="reveal" style="animation-delay:0.78s"><text class="name" x="601.1" y="196" text-anchor="middle">SCSS</text>
+<text class="percent" x="601.1" y="222" text-anchor="middle">4%</text></g>
+<g class="float" style="animation-delay:-6.5s"><circle class="seed" style="animation-delay:0.90s" cx="722.3" cy="124" r="14.05" fill="rgb(160,80,167)" filter="url(#glow)"/></g>
+<g class="reveal" style="animation-delay:0.90s"><text class="name" x="722.3" y="196" text-anchor="middle">TYPESCRIPT</text>
+<text class="percent" x="722.3" y="222" text-anchor="middle">3%</text></g>
+<g class="float" style="animation-delay:-7.800000000000001s"><circle class="seed" style="animation-delay:1.02s" cx="843.4" cy="124" r="8.20" fill="rgb(115,87,197)" filter="url(#glow)"/></g>
+<g class="reveal" style="animation-delay:1.02s"><text class="name" x="843.4" y="196" text-anchor="middle">PHP</text>
+<text class="percent" x="843.4" y="222" text-anchor="middle">&#60;1%</text></g>
+<line x1="40" y1="248" x2="920" y2="248" stroke="#2a2b31"/>
+<g class="reveal" style="animation-delay:1.2s"><text class="caps" x="40" y="278">ALSO WORKING WITH</text>
+<text class="tools" x="226" y="278">Angular · Supabase</text></g>
+</svg>
