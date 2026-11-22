@@ -51,12 +51,12 @@
 
 | Date | Activity | Repository |
 | :-- | :-- | :-- |
-| Nov 20 | Pushed | [portfolio](https://github.com/rekyi/portfolio) |
+| Nov 21 | Pushed | [portfolio](https://github.com/rekyi/portfolio) |
+| Nov 20 | Pushed ×2 | [portfolio](https://github.com/rekyi/portfolio) |
+| Nov 19 | Pushed ×2 | [portfolio](https://github.com/rekyi/portfolio) |
+| Nov 19 | Pushed | [pokedex](https://github.com/rekyi/pokedex) |
+| Nov 19 | Pushed | [hollowbloom](https://github.com/rekyi/hollowbloom) |
 | Nov 19 | Pushed ×3 | [pokedex](https://github.com/rekyi/pokedex) |
-| Nov 19 | Pushed | [portfolio](https://github.com/rekyi/portfolio) |
-| Nov 17 | Created repository | [forever-addons](https://github.com/rekyi/forever-addons) |
-| Nov 17 | Starred | [greensock/GSAP](https://github.com/greensock/GSAP) |
-| Nov 17 | Starred | [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) |
 
 <!-- ACTIVITY:END -->
 
