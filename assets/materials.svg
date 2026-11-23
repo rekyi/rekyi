@@ -26,7 +26,7 @@
 <rect class="light" width="960" height="300" fill="url(#spot)"/>
 </g>
 <text class="caps" x="40" y="44">SHARE OF CODE · PUBLIC REPOS</text>
-<text class="caps" x="920" y="44" text-anchor="end">UPDATED 22 NOV 2026</text>
+<text class="caps" x="920" y="44" text-anchor="end">UPDATED 23 NOV 2026</text>
 <g class="float" style="animation-delay:-0s"><circle class="seed" style="animation-delay:0.30s" cx="116.6" cy="124" r="40.00" fill="rgb(255,200,87)" filter="url(#glow)"/></g>
 <g class="reveal" style="animation-delay:0.30s"><text class="name" x="116.6" y="196" text-anchor="middle">JAVASCRIPT</text>
 <text class="percent" x="116.6" y="222" text-anchor="middle">47%</text></g>
