@@ -51,12 +51,12 @@
 
 | Date | Activity | Repository |
 | :-- | :-- | :-- |
+| Nov 25 | Pushed | [portfolio](https://github.com/rekyi/portfolio) |
+| Nov 24 | Pushed | [forever-addons](https://github.com/rekyi/forever-addons) |
 | Nov 23 | Pushed ×2 | [portfolio](https://github.com/rekyi/portfolio) |
 | Nov 21 | Pushed | [portfolio](https://github.com/rekyi/portfolio) |
 | Nov 20 | Pushed ×4 | [portfolio](https://github.com/rekyi/portfolio) |
 | Nov 19 | Pushed ×2 | [portfolio](https://github.com/rekyi/portfolio) |
-| Nov 19 | Pushed | [pokedex](https://github.com/rekyi/pokedex) |
-| Nov 19 | Pushed | [hollowbloom](https://github.com/rekyi/hollowbloom) |
 
 <!-- ACTIVITY:END -->
 

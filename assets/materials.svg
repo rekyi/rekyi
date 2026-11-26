@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title">
-<title id="title">Materials: share of code across public repositories: JavaScript 47%, Lua 18%, HTML 17%, CSS 9%, SCSS 4%, TypeScript 3%, PHP &#60;1%. Also working with Angular, Supabase.</title>
+<title id="title">Materials: share of code across public repositories: JavaScript 46%, Lua 18%, HTML 17%, CSS 9%, TypeScript 5%, SCSS 4%, PHP &#60;1%. Also working with Angular, Supabase.</title>
 <style>
 .caps{font:500 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;letter-spacing:2.5px;fill:#8a8b93}
 .name{font:500 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;letter-spacing:2px;fill:#8a8b93}
@@ -26,10 +26,10 @@
 <rect class="light" width="960" height="300" fill="url(#spot)"/>
 </g>
 <text class="caps" x="40" y="44">SHARE OF CODE · PUBLIC REPOS</text>
-<text class="caps" x="920" y="44" text-anchor="end">UPDATED 25 NOV 2026</text>
+<text class="caps" x="920" y="44" text-anchor="end">UPDATED 26 NOV 2026</text>
 <g class="float" style="animation-delay:-0s"><circle class="seed" style="animation-delay:0.30s" cx="116.6" cy="124" r="40.00" fill="rgb(255,200,87)" filter="url(#glow)"/></g>
 <g class="reveal" style="animation-delay:0.30s"><text class="name" x="116.6" y="196" text-anchor="middle">JAVASCRIPT</text>
-<text class="percent" x="116.6" y="222" text-anchor="middle">47%</text></g>
+<text class="percent" x="116.6" y="222" text-anchor="middle">46%</text></g>
 <g class="float" style="animation-delay:-1.3s"><circle class="seed" style="animation-delay:0.42s" cx="237.7" cy="124" r="26.90" fill="rgb(232,102,114)" filter="url(#glow)"/></g>
 <g class="reveal" style="animation-delay:0.42s"><text class="name" x="237.7" y="196" text-anchor="middle">LUA</text>
 <text class="percent" x="237.7" y="222" text-anchor="middle">18%</text></g>
@@ -39,12 +39,12 @@
 <g class="float" style="animation-delay:-3.9000000000000004s"><circle class="seed" style="animation-delay:0.66s" cx="480.0" cy="124" r="20.69" fill="rgb(210,71,132)" filter="url(#glow)"/></g>
 <g class="reveal" style="animation-delay:0.66s"><text class="name" x="480.0" y="196" text-anchor="middle">CSS</text>
 <text class="percent" x="480.0" y="222" text-anchor="middle">9%</text></g>
-<g class="float" style="animation-delay:-5.2s"><circle class="seed" style="animation-delay:0.78s" cx="601.1" cy="124" r="15.62" fill="rgb(172,78,159)" filter="url(#glow)"/></g>
-<g class="reveal" style="animation-delay:0.78s"><text class="name" x="601.1" y="196" text-anchor="middle">SCSS</text>
-<text class="percent" x="601.1" y="222" text-anchor="middle">4%</text></g>
-<g class="float" style="animation-delay:-6.5s"><circle class="seed" style="animation-delay:0.90s" cx="722.3" cy="124" r="14.41" fill="rgb(163,79,165)" filter="url(#glow)"/></g>
-<g class="reveal" style="animation-delay:0.90s"><text class="name" x="722.3" y="196" text-anchor="middle">TYPESCRIPT</text>
-<text class="percent" x="722.3" y="222" text-anchor="middle">3%</text></g>
+<g class="float" style="animation-delay:-5.2s"><circle class="seed" style="animation-delay:0.78s" cx="601.1" cy="124" r="16.46" fill="rgb(178,77,154)" filter="url(#glow)"/></g>
+<g class="reveal" style="animation-delay:0.78s"><text class="name" x="601.1" y="196" text-anchor="middle">TYPESCRIPT</text>
+<text class="percent" x="601.1" y="222" text-anchor="middle">5%</text></g>
+<g class="float" style="animation-delay:-6.5s"><circle class="seed" style="animation-delay:0.90s" cx="722.3" cy="124" r="15.62" fill="rgb(172,78,159)" filter="url(#glow)"/></g>
+<g class="reveal" style="animation-delay:0.90s"><text class="name" x="722.3" y="196" text-anchor="middle">SCSS</text>
+<text class="percent" x="722.3" y="222" text-anchor="middle">4%</text></g>
 <g class="float" style="animation-delay:-7.800000000000001s"><circle class="seed" style="animation-delay:1.02s" cx="843.4" cy="124" r="8.20" fill="rgb(115,87,197)" filter="url(#glow)"/></g>
 <g class="reveal" style="animation-delay:1.02s"><text class="name" x="843.4" y="196" text-anchor="middle">PHP</text>
 <text class="percent" x="843.4" y="222" text-anchor="middle">&#60;1%</text></g>
